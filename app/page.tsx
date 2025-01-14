@@ -8,7 +8,7 @@ export default function Page() {
       </h1>
       <p className="mb-4">
         {`
-        I like paradox games and reading. 
+        I like paradox games and reading and I make cool stuff.
        `}
       </p>
       <div className="my-8">
